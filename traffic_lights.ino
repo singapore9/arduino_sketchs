@@ -3,9 +3,9 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2); 
 
 
-const int RED_PIN = 2;
-const int YELLOW_PIN = 4;
-const int GREEN_PIN = 7;
+const int RED_PIN = 6;
+const int YELLOW_PIN = 9;
+const int GREEN_PIN = 5;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
